@@ -8,9 +8,9 @@ import asyncio
 import re
 from os import mkdir, system
 
-AppId = 6969  #Replace With Your Own
-AppHash = "deafbeef2fb23af2bab23f23aaff2a3"  #Replace With Your Own
-BotToken = "13265466:AaSaddDaHGwaBdadsaDHfafw4daw"  #Replace With Your Own
+AppId = 1135523  #Replace With Your Own
+AppHash = "e5f9a8dc59232c7d2ad71d80ee6c0737"  #Replace With Your Own
+BotToken = "1533588509:AAFFKh0ZrcDq67WCotMKuQv5XK2jK901TbQ"  #Replace With Your Own
 app = Client("FFMpvdvdvdvegot", api_id=AppId, api_hash=AppHash, bot_token=BotToken)
 
 
