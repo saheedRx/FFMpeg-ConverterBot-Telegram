@@ -1,7 +1,6 @@
 Pyrogram
 pykeyboard
 ffpb
-time
 asyncio
 threading
 os
