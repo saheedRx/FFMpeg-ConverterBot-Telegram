@@ -1,3 +1,8 @@
-Pyrogram~=1.0.7
-pykeyboard~=0.1.1
+Pyrogram
+pykeyboard
 ffpb
+re
+time
+asyncio
+threading
+os
