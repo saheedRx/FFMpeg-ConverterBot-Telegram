@@ -9,8 +9,8 @@ import re
 from os import mkdir, system
 
 AppId = 2551100  #Replace With Your Own
-AppHash = "e79de98c2b7ac5419f48d2030d60a4ca"  #Replace With Your Own
-BotToken = "5302100774:AAFT0xrULOwh61hgndG75-5Y0CV-ziBBHNU"  #Replace With Your Own
+AppHash = e79de98c2b7ac5419f48d2030d60a4ca
+BotToken = 5302100774:AAFT0xrULOwh61hgndG75-5Y0CV-ziBBHNU
 app = Client("FFMpvdvdvdvegot", api_id=AppId, api_hash=AppHash, bot_token=BotToken)
 
 
