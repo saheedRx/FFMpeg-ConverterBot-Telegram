@@ -2,5 +2,5 @@ Pyrogram
 pykeyboard
 ffpb
 asyncio
-threading
+thread6
 os
