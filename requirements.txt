@@ -3,4 +3,3 @@ pykeyboard
 ffpb
 asyncio
 thread6
-os
